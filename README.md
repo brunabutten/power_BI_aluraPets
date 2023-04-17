@@ -15,6 +15,8 @@ Curso: [Power BI Desktop](https://cursos.alura.com.br/course/power-bi-desktop-pr
 
 Aulas (48 Atividades): conhecendo o Power BI / obtendo, conectando e tratando dados / fazendo relações e medidas / ETL / DAX / criando o primeiro dashboard para web e mobile / publicando pela plataforma.
 
+Publicação no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7021272534536839169/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7021272534536839169%29)!
+
 <h1 align="center">Meu primeiro Dashboard produzido</h1>
 <p dir="auto"><img src="https://github.com/brunabutten/power_BI_aluraPets/blob/main/preparando%20o%20ambiente/alurapets.png" width="100%" style="max-width: 100%;"></p>
 
